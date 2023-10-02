@@ -3,6 +3,10 @@
 
 - 🔭 Atualmente estou trabalhando em um projeto indie, chamado [Horror Story Folks](https://uf-team.itch.io/horrorstoryfolks)
 
+- 🔭 Programador em [Hunt Your Spirit](https://itch.io/jam/14-game-jam-univali/rate/2280135)
+
+- 🔭 Programador em [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
+
 - 📫 Email **lorenzoschadeck@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
