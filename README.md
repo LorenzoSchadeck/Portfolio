@@ -1,7 +1,7 @@
 <h1 align="center">Olá, meu nome é Lorenzo Dick Schadeck!</h1>
 <h3 align="center">Sou apaixonado por fazer jogos!</h3>
 
-- 🔭 Atualmente estou trabalhando em um projeto indie, chamado [Horror Story Folks](https://uf-team.itch.io/horrorstoryfolks)
+- 🔭 Atualmente estou trabalhando em um projeto indie de terror, chamado [Horror Story Folks](https://uf-team.itch.io/horrorstoryfolks)
 
 - 🔭 Programador em [Hunt Your Spirit](https://itch.io/jam/14-game-jam-univali/rate/2280135)
 
