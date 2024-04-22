@@ -6,7 +6,7 @@
 - 🎮 Currently, I'm working on an indie project called [Sombra das Memórias](https://uf-team.itch.io/sombra-das-memorias)
 
 - 🎮 Programmer in [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
-- 
+ 
 - 🎮 Programmer in [Hunt Your Spirit](https://itch.io/jam/14-game-jam-univali/rate/2280135)
 
 - 📫 Email **lorenzoschadeck@icloud.com**
