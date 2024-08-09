@@ -1,13 +1,13 @@
 <h1 align="center">Hello, my name is Lorenzo Dick Schadeck!</h1>
 <h3 align="center">I'm a game developer, and I love what I do!</h3>
 
+- 💼 Currently, I'm working at Red Titan Entertainment.
+
 - 🎮 Currently, I'm working on an indie project called [Horror Story Folks](https://uf-team.itch.io/horrorstoryfolks)
 
-- 🎮 Currently, I'm working on an indie project called [Sombra das Memórias](https://uf-team.itch.io/sombra-das-memorias)
+- 🎮 Programmer in a GameJam game called: [Sombra das Memórias](https://uf-team.itch.io/sombra-das-memorias)
 
-- 🎮 Programmer in [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
- 
-- 🎮 Programmer in [Hunt Your Spirit](https://itch.io/jam/14-game-jam-univali/rate/2280135)
+- 🎮 Programmer in a GameJam game called: [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
 
 - 📫 Email **lorenzoschadeck@icloud.com**
 
