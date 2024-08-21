@@ -11,11 +11,9 @@
 
 - 🎮 Programmer in a Game Jam game called: [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
 
-- 📫 Email **lorenzoschadeck@icloud.com**
-
 <h3 align="left">Connect with me:</h3>
 
-- 📫 Email **lorenzoschadeck@icloud.com**
+📫 Email **lorenzoschadeck@icloud.com**
   
 <p align="left">
 <a href="https://instagram.com/lorenzoschadeck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lorenzoschadeck" height="30" width="40" /></a>
