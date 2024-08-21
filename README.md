@@ -5,7 +5,7 @@
 
 - 🎮 Currently, I'm working on an indie project called [Horror Story Folks](https://uf-team.itch.io/horrorstoryfolks)
 
-<h3 align="center">Game Jam Games:</h3>
+<h3 align="left">Game Jam Games:</h3>
 
 - 🎮 Programmer in a Game Jam game called: [Sombra das Memórias](https://uf-team.itch.io/sombra-das-memorias)
 
