@@ -5,9 +5,11 @@
 
 - 🎮 Currently, I'm working on an indie project called [Horror Story Folks](https://uf-team.itch.io/horrorstoryfolks)
 
-- 🎮 Programmer in a GameJam game called: [Sombra das Memórias](https://uf-team.itch.io/sombra-das-memorias)
+<h3 align="center">Game Jam Games:</h3>
 
-- 🎮 Programmer in a GameJam game called: [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
+- 🎮 Programmer in a Game Jam game called: [Sombra das Memórias](https://uf-team.itch.io/sombra-das-memorias)
+
+- 🎮 Programmer in a Game Jam game called: [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
 
 - 📫 Email **lorenzoschadeck@icloud.com**
 
