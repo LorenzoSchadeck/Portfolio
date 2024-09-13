@@ -1,15 +1,16 @@
 <h1 align="center">Hello, my name is Lorenzo Dick Schadeck!</h1>
-<h3 align="center">I'm a game developer, and I love what I do!</h3>
+<h3>About Me: </h3>
+I am a passionate game programmer with experience across various aspects of game development, with a particular focus on mechanics development. Currently, I am involved in the production of three games, exploring different mechanics and styles to create engaging and innovative experiences. Additionally, I have completed two game jam projects, where I was able to test and refine my skills under tight deadlines and creative pressure. My goal is to continue pushing my limits and contributing creative and technical solutions to the game industry.
 
 - 💼 Currently, I'm working at Red Titan Entertainment.
 
-- 🎮 Currently, I'm working on an indie project called [Horror Story Folks](https://uf-team.itch.io/horrorstoryfolks)
+- 🎮 Additionally, I'm also working on an indie project called [Horror Story Folks](https://uf-team.itch.io/horrorstoryfolks)
 
 <h3 align="left">Game Jam Games:</h3>
 
-- 🎮 Programmer in a Game Jam game called: [Sombra das Memórias](https://uf-team.itch.io/sombra-das-memorias)
+- [Sombra das Memórias](https://uf-team.itch.io/sombra-das-memorias)
 
-- 🎮 Programmer in a Game Jam game called: [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
+- [Hero of Domus](https://lorenzogrando.itch.io/hero-of-domus)
 
 <h3 align="left">Connect with me:</h3>
 
